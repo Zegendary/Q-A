@@ -12,10 +12,11 @@
 
 ### 如何运行
 
-1. `git clone ` 克隆仓库到本地
-2. `npm install` 安装所需依赖
-3. `npm start` 启动项目
-4. 打开 `http://localhost:8080/` 
+1. `git clone git@github.com:Zegendary/Q-A.git` 克隆仓库到本地
+2. `cd 7-18 vue-jrg-cli`
+3. `npm install` 安装所需依赖
+4. `npm start` 启动项目
+5. 打开 `http://localhost:8080/` 
 
 如果需要push到github 在线预览的话 请输入命令 `webpack` 将文件打包并配合githubpage即可。
 
